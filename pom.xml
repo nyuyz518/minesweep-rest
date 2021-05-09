@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>edu.nyu.yz518</groupId>
-	<artifactId>minesweep-rest</artifactId>
+	<artifactId>minesweeper-rest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>minesweep-rest</name>
-	<description>Webservice for Minesweep</description>
+	<name>minesweeper-rest</name>
+	<description>Webservice for minesweeper</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
