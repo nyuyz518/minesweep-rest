@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'edu.nyu.yz518.minesweep-rest' is invalid and this project uses 'edu.nyu.yz518.minesweeprest' instead.
+* The original package name 'edu.nyu.yz518.minesweep-rest' is invalid and this project uses 'edu.nyu.yz518.minesweeper' instead.
 
 # Getting Started
 
